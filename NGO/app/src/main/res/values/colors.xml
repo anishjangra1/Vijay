@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32A6B3</color>
+    <color name="colorPrimaryDark">#32A6B3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="header">#32A6B3</color>
+    <color name="header_selected">#106e79</color>
+    <!-- <color name="header">#276684</color>-->
+    <color name="orange">#FF9800</color>
+    <color name="text_color">#000000</color>
+    <color name="background_color">#ffffff</color>
+    <color name="light_grey">#F1f1f1</color>
+    <color name="second_grey">#E2E2E2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_red">#EF5350</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#E6513B</color>
+    <color name="selected_item">#29AEBD</color>
+    <color name="blue_back">#28aebd</color>
+    <color name="defaultTextColor">#ffffff</color>
+    <color name="holoBlue">#33b5e5</color>
+    <color name="grey_medium">#D6D6D4</color>
+    <color name="grey_dark">#747474</color>
+    <color name="hint_color">#747474</color>
+    <color name="dark_blue">#3B5E9E</color>
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#d4d4d4</color>
+    <color name="card_shadow_2">#dddddd</color>
+    <color name="card_detailing">#eee</color>
+</resources>
